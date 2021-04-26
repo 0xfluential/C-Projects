@@ -10,7 +10,7 @@ int main()
       int num1, num2, result = 0;
 
       printf("\n Choose an operator (+, -, *, /): ");
-      scanf("%c", %Opertator);
+      scanf("%c", &Opertator);
 
       printf("\n Enter first and second number: ");
       scanf("%f%f", &num1, &num2);
